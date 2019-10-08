@@ -1,0 +1,9 @@
+#!/usr/bin/env python3
+
+
+
+vr={}
+for n in alist:
+    vr[n]=0
+
+print(vr)
